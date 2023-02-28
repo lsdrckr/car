@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SpF-con)(type KiCad)(uri ${KIPRJMOD}/lib/KiCadLibs/SparkFun-Kicad-Libraries-master/SparkFun-Connectors.pretty)(options "")(descr ""))
+)
