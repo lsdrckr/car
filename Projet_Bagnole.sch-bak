@@ -36,7 +36,7 @@ U 1 1 63ED5C7F
 P 7800 1350
 F 0 "M1" H 7958 1346 50  0000 L CNN
 F 1 "Motor_DC" H 7958 1255 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7800 1260 50  0001 C CNN
+F 2 "" H 7800 1260 50  0001 C CNN
 F 3 "~" H 7800 1260 50  0001 C CNN
 	1    7800 1350
 	1    0    0    -1  
@@ -517,7 +517,7 @@ U 1 1 63F33473
 P 10050 1400
 F 0 "M2" H 10238 1524 50  0000 L CNN
 F 1 "Stepper_Motor_bipolar" H 10238 1433 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 10060 1390 50  0001 C CNN
+F 2 "" H 10060 1390 50  0001 C CNN
 F 3 "http://www.infineon.com/dgdl/Application-Note-TLE8110EE_driving_UniPolarStepperMotor_V1.1.pdf?fileId=db3a30431be39b97011be5d0aa0a00b0" H 10060 1390 50  0001 C CNN
 	1    10050 1400
 	1    0    0    -1  
