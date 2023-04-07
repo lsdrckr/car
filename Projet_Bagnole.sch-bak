@@ -453,7 +453,7 @@ U 1 1 63F33473
 P 10100 1000
 F 0 "M2" H 10288 1124 50  0000 L CNN
 F 1 "Stepper_Motor_bipolar" H 10288 1033 50  0000 L CNN
-F 2 "Projet_Bagnole:Motor_Prop" H 10110 990 50  0001 C CNN
+F 2 "rex-motors:micro-slider" H 10110 990 50  0001 C CNN
 F 3 "http://www.infineon.com/dgdl/Application-Note-TLE8110EE_driving_UniPolarStepperMotor_V1.1.pdf?fileId=db3a30431be39b97011be5d0aa0a00b0" H 10110 990 50  0001 C CNN
 	1    10100 1000
 	1    0    0    -1  
@@ -1098,7 +1098,7 @@ U 1 1 6409DA2F
 P 6200 5800
 F 0 "J2" H 6172 5732 50  0000 R CNN
 F 1 "Conn_01x03_Male" H 6172 5823 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6200 5800 50  0001 C CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53048-0310_1x03_P1.25mm_Horizontal" H 6200 5800 50  0001 C CNN
 F 3 "~" H 6200 5800 50  0001 C CNN
 	1    6200 5800
 	-1   0    0    1   
