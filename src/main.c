@@ -171,7 +171,18 @@ void loop(){
         prev_millis = millis();
     }
     
-    else route1();
+    else{
+        if ((millis() - prev_millis)/100 % 2){
+            forward(100);
+        }
+        
+        else{
+            backward(100);
+        }
+        
+        route1();
+    }
+//     else route1();
     
 //     if (millis() - prev_millis < 100){
 //         set_high(&PORTB, PB0);
@@ -198,6 +209,12 @@ void loop(){
 
 int main(){
 	setup();
+
+    forward(100);
+    forward(100);
+    forward(100);
+    forward(100);
+
 	while(1){
 		loop();
 	}
